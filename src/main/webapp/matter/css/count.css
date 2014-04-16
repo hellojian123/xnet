@@ -1,0 +1,21 @@
+﻿._one_l_bottom{ width:703px; height:100%;  margin:0px 0px 10px 0px; padding:0px 0px 30px 0px;}
+
+
+._o_b_head{width:640px; height:30px; margin:0px 0px 0px 20px; padding:35px 0px 0px 20px;border-bottom:1px dashed #f1f1f1;text-align: center;clear:both;}
+._o_h{ height:68px !important; font-size:12px;}
+.pub_date{ font-size:12px; color:#999999;} 
+.title_trade{font-size:18px; }
+
+._o_b_count{width:660px; margin:20px auto 0px auto; border:0px solid red;}
+._o_b_count img{ float:left; width:230px; height:180px;}
+
+._count{width:660px; margin:20px auto 0px auto; border:0px solid red;overflow:hidden;}
+._count img{max-width:100%;}
+
+._c_table{ float:left; width:400px; margin:0px 0px 0px 20px;border:0px solid black;}
+._c_table tr{ height:25px; }
+._c_table tr td{ font-size:14px;color: #333;}
+._l{ width:20%;}
+
+._s{ float:left; font-size:16px;}
+.count_c{ margin:10px auto 0px auto; font-size:14px;color: #333; padding:3px;}

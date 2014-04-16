@@ -1,0 +1,33 @@
+.yahoo2 {
+	width:98%;float:left; padding:0px 0px;font-size:12px; margin:5px 3px 0 3px;font-family:"Microsoft YaHei"; text-align: center;
+}
+.yahoo2 A {
+	border:#f9f9f9 1px solid;border-radius:5px;padding:2px 8px; background-position: 50% bottom;   color: #ae0019;margin:3px 3px 3px 0px;text-decoration:none;
+}
+.yahoo2 A.noxz{
+	color:#ccc;
+	}
+.yahoo2 A:hover {
+	border: #930015 1px solid; background-image: none;COLOR: #fff; background-color: #ae0019
+}
+.yahoo2 A:active {
+	border: #b2031d 1px solid;background-image: none; background-color: #bb0a23
+}
+.yahoo2 SPAN.current {
+	padding:2px 6px; font-weight: bold;color: #000; margin-right: 3px;
+}
+.yahoo2 SPAN.disabled {
+	DISPLAY: none
+}
+.yahoo2 A.next {
+	border: #ccdbe4 2px solid;MARGIN: 0px 0px 0px 10px;
+}
+.yahoo2 A.next:hover {
+	border: #2b55af 2px solid; 
+}
+.yahoo2 A.prev {
+	border: #ccdbe4 2px solid; margin: 0px 10px 0px 0px;
+}
+.yahoo2 A.prev:hover {
+	border: #2b55af 2px solid; 
+}

@@ -1,0 +1,7 @@
+﻿._one_l{width:765px; height:97%; margin:5px 0px 20px 10px;}  /*左*/
+._one_l_bottom{padding: 20px 0px 20px 0px !important; }    /*左下*/
+.reg_title {padding: 0 0 10px 10px;margin: 10px 20px 0 20px !important;}
+._one_l_bottom table{ width:100%; padding:10px 0px 0px 0px;}
+.tl {width: 110px;}
+.x_o{width: 485px; height: 320px;}
+.x_o:focus{transition:border linear .2s,box-shadow linear .5s-moz-transition:border linear .2s,-moz-box-shadow linear .5s; -webkit-transition:border linear .2s,-webkit-box-shadow linear .5s;outline:none;border-color:#FFA44D;box-shadow:0 0 8px #FFA44D;}

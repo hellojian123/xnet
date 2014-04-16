@@ -1,0 +1,14 @@
+﻿.pool_one{width:970px; height:100%;  margin:5px auto 0px auto;  padding:0px 0px 10px 0px;}
+
+/* ****************************************************navigation**********************************************/
+._one_l_top{background-image: url(../images/logo/gb_sell_06.jpg);background-repeat: repeat-x;border: 1px solid #DDD;  line-height: 31px; height:31px; font-size: 14px; margin:0px;}
+._one_l_top_bg{padding-left: 15px;background-image: url(../images/logo/gb_sell_08.jpg);background-repeat: no-repeat;background-position: 90px;}
+._one_l_top_bg a{ color:Black;}
+._one_l_top_bg a:hover{ color:#6699CC;}
+._one_l_bottom{border: 1px solid #DDD; height:100%; border-top:0px;width:968px; padding:5px 0px 10px 0px ;   margin:0px 0px 0px 0px;  overflow:hidden;  } 
+
+.work{ margin:0px 0px 10px 6px;  padding:10px 0px 15px 0px;  }
+.work li{height: 120px;float: left; margin:0px 3px 5px 3px; overflow:hidden;  position:relative; padding: 0;width:233px;border:0px solid red;}
+.work li img{position: absolute; width:233px; height:120px;border:0px;}
+.boxcaption{ color:White;position: relative;  background-color:#FCA404; height: 40px;width: 233px; font-size:13px; text-align:center; opacity: 1;}
+

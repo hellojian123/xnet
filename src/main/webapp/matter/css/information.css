@@ -1,0 +1,9 @@
+﻿._one_r{  width:190px; height:100%; border:0px solid red;margin:5px 0px 0px 0px; }  /*左*/
+.box_head_1{margin:0px 0px 0px 0px;}
+.box_body {padding:0px 0px 0px 0px;}
+.rank_list {background:none;}
+.rank_list li { margin:0px 0px 0px 0px; width:147px; height: 37px !important;line-height:37px !important;overflow: hidden;font-size: 14px; border:1px solid White; border-left:0px; border-right:0px; border-top-color:#DBDBD9;}
+.rank_list li.list_one{ border-top-color:White;}
+.rank_list li:hover{ background:#F9F9F9 !important; cursor:pointer; border:1px solid White; border-top-color:#DBDBD9; border-left:0px !important; border-right:0px !important;}
+
+._one_l{ width:765px; height:97%; margin:5px 0px 20px 10px;}  /*右*/

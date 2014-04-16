@@ -1,0 +1,65 @@
+﻿.profile_head{ width:100%; height:110px; background-color:#FCA404;}
+.profile_one{width:970px; height:108px; border: 0px red solid; margin:0px auto 0px auto;}
+.profile_one span{ float:left; width:500px; font-size:36px; color:White;  font-family:Microsoft YaHei; height:108px; line-height:108px;}
+.p_one_r{ float:right;width:270px; height:108px; line-height:103px; }
+.p_one_r ul{ width:100%; height:30px; line-height:30px;margin:30px 0px 0px 0px;}
+.p_one_r ul li{ float:right; margin:0px 3px 0px 3px;}
+.p_one_r ul li a{ color:White; font-size:12px;}
+.p_one_r ul li a:hover{ text-decoration:underline;}
+.p_one_r span{ font-size:15px; font-family:Microsoft YaHei; text-align:right; color:#FBDB16; height:30px; line-height:30px; font-weight:bold; width:100%; }
+
+
+.profile_two{width:970px; height:202px; border:0px red solid; margin:3px auto 0px auto;}
+.profile_two .JQ-content-box{overflow:hidden;width:970px;height:200px; position:absolute;}
+.profile_two .JQ-slide-content{position:absolute; overflow:hidden;}
+.profile_two .JQ-slide-content li{zoom:1;overflow:hidden;height:200px; float:left;}
+.profile_two ul li img{display:block; width:970px;height:200px;}
+.profile_two .JQ-slide-nav{position:absolute;right:10px;bottom:5px;height:16px;}
+.profile_two .JQ-slide-nav li{background-color:#A0D8E5;border:0px;color:White;cursor:pointer;float:left;font-size:12px;height:16px;line-height:16px;margin-left:3px;text-align:center;width:18px;}
+.profile_two .JQ-slide-nav li.on{background-color:#FFA44D;height:16px;line-height:16px;width:18px;}
+.profile_two .JQ-slide-nav li img{display:block}
+
+.list_one{border:0px red solid;}
+._one_l{width:710px; float:left; margin:0px 0px 20px 0px;}
+._one_l_top{ background-color:#FCA404; background-image:none; border-bottom: none; padding-left:10px;line-height: 27px; height:31px;}
+._one_l_top span{font-size:14px;color:White; font-weight:bold;}
+._one_l_bottom{ font-size:13px; color:#333333; padding:8px;}
+
+._o_tab{ padding:2px 8px 8px 8px;}
+._one_l_bottom table {text-align: center;line-height: 25px; margin:3px 0px 10px 0px;border-collapse:collapse; border:0px;}
+._one_l_bottom table tr{ border:0px solid red; padding:0px;}
+._one_l_bottom img {border-bottom: #D2D2D2 1px solid;border-left: #D2D2D2 1px solid;border-top: #D2D2D2 1px solid;border-right: #D2D2D2 1px solid;padding-bottom: 4px;margin: 4px;padding-left: 4px;padding-right: 4px;padding-top: 4px; width:120px; height:100px;}
+._one_l_bottom a{ font-size:12px; color:#333;}
+._one_l_bottom a:hover{color:#DE0000;}
+
+._one_l_top_{ margin:3px 0px 0px 0px;}
+._one_l_top_ span{ float:left;}
+._one_l_top_ a{ color:#333; float:right; font-size:12px; margin:0px 5px 0px 0px;}
+._one_l_top_ a:hover{ color:#360;}
+._one_r{width:250px; float:right;margin:0px 0px 0px 10px;  }
+.b_h_t{ margin:0px;}
+._b_b{ padding:2px;}    /*联系我们*/
+.b_ul{ margin:0px; padding:0px; border:0px solid red;}
+.b_ul li {background-image: url(../images/logo/list_style_18.jpg);padding-left: 18px;line-height: 25px;height: 25px;background-repeat: no-repeat;background-position: 7px center;overflow: hidden;font-size: 12px;color:#333;}
+.b_ul li a{ color:#333;}
+.b_ul li a:hover{color:#360;}
+
+
+.syjh {padding: 0 10px;}  /*供应信息*/
+.syjh li {background-image: url(../images/logo/db_bg02.gif);background-repeat: no-repeat;background-position: left 5px;padding-left: 6px;border-bottom: 1px #B9E3AB dashed;margin-top: 8px;}
+.syjh li span {float: right;color: red; font-size:13px;}
+.syjh li strong {color: orange; font-size:13px;}
+.syjh li strong a {color: green;}
+.syjh li strong a:hover{ color:Black;}
+.syjh li p {padding: 2px 0; margin:3px; font-size:12px;}
+
+
+._o_img{ height:150px;  border: 1px #DDD solid; margin:0px; padding:3px; }    /*滚动广告*/
+#colee_left{overflow: hidden; width: 700px; height: 150px; margin: 0px 0px 0px 0px;text-align: center; }
+.c_f_1 tr td img{width:160px; height:100px; border:0px;margin:0px 1px 0px 1px;}
+
+
+#roll{overflow: hidden; width: 237px; height: 260px; margin: 5px 2px 0px 2px;text-align:left; padding:0px;}  /*求购信息*/
+.ro_t tr td{ padding:4px 0px 0px 0px; font-size:11px; text-align:left; margin:5px 0px 5px 0px;}
+.ro_t tr td a{ color:#333; font-size:11px;}
+.ro_t tr td a:hover{ color:#DE0000;}

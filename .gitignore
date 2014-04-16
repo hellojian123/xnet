@@ -1,0 +1,17 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+/target
+target/
+/src/main/webapp/attached/*
+/src/main/webapp/images/*
+/src/main/webapp/matter/images/*
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear

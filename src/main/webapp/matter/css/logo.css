@@ -1,0 +1,29 @@
+﻿
+._one_l{float:left; width:970px; height:97%; margin:5px 0px 20px 0px; overflow:hidden;}  /*左*/
+._one_l_bottom{ padding: 20px 160px 20px 160px !important;}    /*左下*/
+._one_l_bottom table{ width:477px; border:0px solid red; margin:0px 0px 0px 85px;}
+._one_l_bottom table tbody tr td{ line-height:25px; border:0px solid red;}
+.yan{ margin:0px 0px 0px 0px; padding:0px; height:26px;}
+.y_z{ width:150px;  line-height:26px;}
+.reg_title{border-bottom: #CCC 1px solid;font-weight: bold;padding: 0px 0px 25px 10px;margin: 15px 85px 0px 85px;font-size: 15px;color:Black;}
+.reg_title span{ float:left;}
+.reg_title a{ float:right;font-size: 13px;color:#333;}
+.reg_title a:hover{ text-decoration:underline;}
+.tl {width: 100px;text-align: right;padding-right: 20px;}
+
+._zhuc{ margin:0px 0px 0px 50px;}
+
+
+
+
+.den{ width:85px; height:32px; line-height:32px; color:White; font-size:12px; font-family:Microsoft YaHei; background-color:#F69212;border-radius:4px; float:left; text-align:center; margin:0px 6px 0px 0px;}
+.den{background-color: #6BBAE6; width:90px; margin:0px 3px 0px 0px;}
+.den:hover{box-shadow:0px 0px 1px  #F69212;}
+.den:hover{box-shadow:0px 0px 1px  #43B12B; font-size:12px;}
+
+.zhu{ background-color:#F69212 ; width:80px; height:27px; line-height:27px; margin:5px 0px 0px 15px;}
+.zhu:hover{box-shadow:0px 0px 1px  #43B12B; font-size:12px;}
+
+
+
+

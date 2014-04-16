@@ -1,0 +1,10 @@
+﻿.clearfix {margin: 20px 0px 0px 40px;}
+.clearfix strong {font-weight: 600;font-size: 14x;color: #F69212;float: left;height: 32px;line-height: 32px;margin: 0px 5px 0px 0px;}
+.u_btn1 {width: 80px;height: 25px;line-height: 21px;color: white;background-color:#F69212;border: 0px;margin-left: 5px;border-radius: 4px; cursor:pointer;}
+.u_btn1:hover{transition:border linear .2s,box-shadow linear .5s-moz-transition:border linear .2s,-moz-box-shadow linear .5s; -webkit-transition:border linear .2s,-webkit-box-shadow linear .5s;outline:none;border-color:#F69212;box-shadow:0 0 5px #F69212;}
+
+.c_list{ margin:10px 20px 0px 20px;  width:95% !important; text-align:center;border-collapse:collapse;}
+.c_tr{ background-color:#D5E8F7; }
+.c_list tr{}
+.c_list tr td{  line-height:25px; border:1px solid #E8F7DA;}
+.t1{ width:40%;}
